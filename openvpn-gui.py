@@ -158,9 +158,6 @@ class OpenVpn(Thread):
 
         self.ok = Button(popup, text=_('OK'), activebackground='#00a2ed', activeforeground='white', command=lambda: [Thread(target=self.save_user_pass).start(), Thread(target=popup.destroy).start(), Thread(target=popup.update).start()])
         self.ok.pack(pady=5)
-
-        self.user_txt.insert(INSERT, 'tcpvpn.com-Alexsussa')
-        self.pass_txt.insert(INSERT, 'alex1234')
         
     def save_user_pass(self):
         user = self.user_txt.get()
