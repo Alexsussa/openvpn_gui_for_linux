@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenVpn Gui Linux\n"
+"POT-Creation-Date: 2021-06-28 11:07-0300\n"
+"PO-Revision-Date: 2021-06-28 11:08-0300\n"
+"Last-Translator: \n"
+"Language-Team: Alex Pinheiro\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: common.py\n"
+"X-Poedit-SearchPath-1: openvpn-gui.py\n"
+"X-Poedit-SearchPath-2: utils.py\n"
+
+#: openvpn-gui.py:38
+msgid "Open File"
+msgstr "Abrir Arquivo"
+
+#: openvpn-gui.py:40
+msgid "Quit"
+msgstr "Sair"
+
+#: openvpn-gui.py:44
+msgid "Check for updates"
+msgstr "Procurar por atualizações"
+
+#: openvpn-gui.py:45
+msgid "GitHub"
+msgstr "GitHub"
+
+#: openvpn-gui.py:47
+msgid "License"
+msgstr "Licença"
+
+#: openvpn-gui.py:49
+msgid "About"
+msgstr "Sobre"
+
+#: openvpn-gui.py:52
+msgid "File"
+msgstr "Arquivo"
+
+#: openvpn-gui.py:53
+msgid "Help"
+msgstr "Ajuda"
+
+#: openvpn-gui.py:82
+msgid "My IP"
+msgstr "Meu IP"
+
+#: openvpn-gui.py:93
+msgid "Connect"
+msgstr "Conectar"
+
+#: openvpn-gui.py:119
+msgid "Status"
+msgstr "Status"
+
+#: openvpn-gui.py:119
+msgid "Select one file to connect."
+msgstr "Selecione um arquivo para conectar."
+
+#: openvpn-gui.py:122
+msgid "OpenVpn Gui - Ctrl+C to stop connection"
+msgstr "OpenVpn Gui - Ctrl+C Para parar a conexão"
+
+#: openvpn-gui.py:133
+msgid "User"
+msgstr "Usuário"
+
+#: openvpn-gui.py:138
+msgid "Pass"
+msgstr "Senha"
+
+#: openvpn-gui.py:143
+msgid "OK"
+msgstr ""
